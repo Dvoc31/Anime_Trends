@@ -1,0 +1,251 @@
+mal_id,title,score,genre_list,studios,episodes,source,season,year,type,rating
+1,Cowboy Bebop,8.75,"['Action', 'Award Winning', 'Sci-Fi']",['Sunrise'],26,Original,Spring,1998,TV,R - 17+ (violence & profanity)
+5,Cowboy Bebop: Tengoku no Tobira,8.38,"['Action', 'Sci-Fi']",['Bones'],1,Original,,2001,Movie,R - 17+ (violence & profanity)
+6,Trigun,8.22,"['Action', 'Adventure', 'Sci-Fi']",['Madhouse'],26,Manga,Spring,1998,TV,PG-13 - Teens 13 or older
+7,Witch Hunter Robin,7.23,"['Action', 'Drama', 'Mystery', 'Supernatural']",['Sunrise'],26,Original,Summer,2002,TV,PG-13 - Teens 13 or older
+8,Bouken Ou Beet,6.92,"['Action', 'Adventure', 'Fantasy']",['Toei Animation'],52,Manga,Fall,2004,TV,PG - Children
+15,Eyeshield 21,7.91,['Sports'],['Gallop'],145,Manga,Spring,2005,TV,PG-13 - Teens 13 or older
+16,Hachimitsu to Clover,7.98,"['Comedy', 'Drama', 'Romance']",['J.C.Staff'],24,Manga,Spring,2005,TV,PG-13 - Teens 13 or older
+17,Hungry Heart: Wild Striker,7.54,['Sports'],['Nippon Animation'],52,Manga,Fall,2002,TV,PG-13 - Teens 13 or older
+18,Initial D Fourth Stage,8.17,"['Action', 'Drama']",['A.C.G.T.'],24,Manga,Spring,2004,TV,PG-13 - Teens 13 or older
+19,Monster,8.89,"['Drama', 'Mystery', 'Suspense']",['Madhouse'],74,Manga,Spring,2004,TV,R+ - Mild Nudity
+20,Naruto,8.01,"['Action', 'Adventure', 'Fantasy']",['Studio Pierrot'],220,Manga,Fall,2002,TV,PG-13 - Teens 13 or older
+21,One Piece,8.73,"['Action', 'Adventure', 'Fantasy']",['Toei Animation'],0,Manga,Fall,1999,TV,PG-13 - Teens 13 or older
+22,Tennis no Oujisama,7.84,['Sports'],['Trans Arts'],178,Manga,Fall,2001,TV,PG-13 - Teens 13 or older
+23,Ring ni Kakero 1,6.35,['Sports'],['Toei Animation'],12,Manga,Fall,2004,TV,PG - Children
+24,School Rumble,7.88,"['Comedy', 'Romance']",['Studio Comet'],26,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+25,Sunabouzu,7.36,"['Action', 'Adventure', 'Comedy', 'Sci-Fi', 'Ecchi']",['Gonzo'],24,Manga,Fall,2004,TV,R - 17+ (violence & profanity)
+26,Texhnolyze,7.75,"['Avant Garde', 'Drama', 'Mystery', 'Sci-Fi', 'Suspense']",['Madhouse'],22,Original,Spring,2003,TV,R+ - Mild Nudity
+27,Trinity Blood,7.28,"['Action', 'Fantasy', 'Sci-Fi']",['Gonzo'],24,Light novel,Spring,2005,TV,R - 17+ (violence & profanity)
+28,Yakitate!! Japan,7.91,"['Comedy', 'Gourmet']",['Sunrise'],69,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+29,Zipang,7.49,"['Action', 'Drama', 'Sci-Fi']",['Studio Deen'],26,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+30,Shinseiki Evangelion,8.36,"['Action', 'Avant Garde', 'Award Winning', 'Drama', 'Sci-Fi', 'Suspense']","['Gainax', 'Tatsunoko Production']",26,Original,Fall,1995,TV,PG-13 - Teens 13 or older
+31,Shinseiki Evangelion Movie: Shi to Shinsei,7.49,"['Action', 'Drama', 'Sci-Fi', 'Suspense']","['Gainax', 'Production I.G', 'Tatsunoko Production']",1,Original,,1997,Movie,R - 17+ (violence & profanity)
+32,"Shinseiki Evangelion Movie: Air/Magokoro wo, Kimi ni",8.56,"['Action', 'Avant Garde', 'Drama', 'Sci-Fi', 'Suspense']","['Gainax', 'Production I.G']",1,Original,,1997,Movie,R+ - Mild Nudity
+33,Kenpuu Denki Berserk,8.6,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Horror']",['OLM'],25,Manga,Fall,1997,TV,R+ - Mild Nudity
+43,Koukaku Kidoutai,8.27,"['Action', 'Award Winning', 'Mystery', 'Sci-Fi', 'Suspense']",['Production I.G'],1,Manga,,1995,Movie,R+ - Mild Nudity
+44,Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen,8.69,"['Action', 'Drama', 'Romance']",['Studio Deen'],4,Manga,,1999,OVA,R - 17+ (violence & profanity)
+45,Rurouni Kenshin: Meiji Kenkaku Romantan,8.28,"['Action', 'Comedy', 'Romance']","['Gallop', 'Studio Deen']",94,Manga,Winter,1996,TV,PG-13 - Teens 13 or older
+46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,7.55,['Drama'],['Gallop'],1,Manga,,1997,Movie,R - 17+ (violence & profanity)
+47,Akira,8.16,"['Action', 'Horror', 'Sci-Fi']",['Tokyo Movie Shinsha'],1,Manga,,1988,Movie,R+ - Mild Nudity
+48,.hack//Sign,6.94,"['Adventure', 'Fantasy', 'Mystery']",['Bee Train'],26,Original,Spring,2002,TV,PG-13 - Teens 13 or older
+49,Aa! Megami-sama!,7.28,"['Comedy', 'Romance', 'Supernatural']",['AIC'],5,Manga,,1993,OVA,PG-13 - Teens 13 or older
+50,Aa! Megami-sama! (TV),7.31,"['Comedy', 'Romance', 'Supernatural']",['AIC'],24,Manga,Winter,2005,TV,PG-13 - Teens 13 or older
+51,Tenshi Kinryouku,6.24,"['Action', 'Drama', 'Romance', 'Supernatural']",['HAL Film Maker'],3,Manga,,2000,OVA,R+ - Mild Nudity
+52,Kidou Tenshi Angelic Layer,7.26,"['Award Winning', 'Comedy', 'Drama', 'Sci-Fi']",['Bones'],26,Manga,Spring,2001,TV,PG-13 - Teens 13 or older
+53,Ai Yori Aoshi,7.1,"['Comedy', 'Drama', 'Romance']",['J.C.Staff'],24,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+54,Appleseed (Movie),7.05,"['Action', 'Sci-Fi']",['Digital Frontier'],1,Manga,,2004,Movie,R - 17+ (violence & profanity)
+55,Arc the Lad,6.48,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",['Bee Train'],26,Game,Spring,1999,TV,R - 17+ (violence & profanity)
+56,Avenger,5.85,"['Adventure', 'Fantasy', 'Sci-Fi']",['Bee Train'],13,Original,Fall,2003,TV,R - 17+ (violence & profanity)
+57,Beck,8.29,['Drama'],['Madhouse'],26,Manga,Fall,2004,TV,R - 17+ (violence & profanity)
+58,Blue Gender,7.01,"['Action', 'Adventure', 'Drama', 'Horror', 'Sci-Fi']",['AIC'],26,Original,Fall,1999,TV,R+ - Mild Nudity
+59,Chobits,7.39,"['Comedy', 'Drama', 'Romance', 'Sci-Fi', 'Ecchi']",['Madhouse'],26,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+60,Chrno Crusade,7.6,"['Action', 'Romance', 'Supernatural']",['Gonzo'],24,Manga,Fall,2003,TV,R - 17+ (violence & profanity)
+61,D.N.Angel,7.15,"['Action', 'Comedy', 'Fantasy', 'Romance']",['Xebec'],26,Manga,Spring,2003,TV,PG-13 - Teens 13 or older
+62,D.C.: Da Capo,6.7,"['Drama', 'Romance']","['feel.', 'Zexcs']",26,Visual novel,Summer,2003,TV,PG-13 - Teens 13 or older
+63,DearS,6.54,"['Comedy', 'Romance', 'Sci-Fi', 'Ecchi']",['Daume'],12,Manga,Summer,2004,TV,R+ - Mild Nudity
+64,Rozen Maiden,7.4,"['Action', 'Drama', 'Supernatural']",['Nomad'],12,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+65,Rozen Maiden: Träumend,7.61,"['Action', 'Drama', 'Supernatural']",['Nomad'],12,Manga,Fall,2005,TV,PG-13 - Teens 13 or older
+66,Azumanga Daiou The Animation,8.06,['Comedy'],['J.C.Staff'],26,4-koma manga,Spring,2002,TV,PG-13 - Teens 13 or older
+67,Basilisk: Kouga Ninpou Chou,7.53,"['Action', 'Drama', 'Romance']",['Gonzo'],24,Manga,Spring,2005,TV,R - 17+ (violence & profanity)
+68,Black Cat,7.31,"['Action', 'Adventure', 'Sci-Fi']",['Gonzo'],23,Manga,Fall,2005,TV,PG-13 - Teens 13 or older
+69,Cluster Edge,6.31,"['Action', 'Fantasy', 'Sci-Fi']",['Sunrise'],25,Original,Fall,2005,TV,PG-13 - Teens 13 or older
+71,Full Metal Panic!,7.59,"['Action', 'Comedy', 'Sci-Fi']",['Gonzo'],24,Light novel,Winter,2002,TV,R - 17+ (violence & profanity)
+72,Full Metal Panic? Fumoffu,8.02,"['Action', 'Comedy']",['Kyoto Animation'],12,Light novel,Summer,2003,TV,PG-13 - Teens 13 or older
+73,Full Metal Panic! The Second Raid,7.91,['Action'],['Kyoto Animation'],13,Light novel,Summer,2005,TV,R - 17+ (violence & profanity)
+74,Gakuen Alice,7.64,['Comedy'],['Group TAC'],26,Manga,Fall,2004,TV,G - All Ages
+75,Soukyuu no Fafner: Dead Aggressor,7.25,"['Action', 'Drama', 'Sci-Fi']",['Xebec'],25,Original,Summer,2004,TV,PG-13 - Teens 13 or older
+76,Mahou Shoujo Lyrical Nanoha,7.41,"['Action', 'Comedy', 'Drama']",['Seven Arcs'],13,Original,Fall,2004,TV,PG-13 - Teens 13 or older
+77,Mahou Shoujo Lyrical Nanoha A's,7.95,"['Action', 'Comedy', 'Drama']",['Seven Arcs'],13,Original,Fall,2005,TV,PG-13 - Teens 13 or older
+79,Shuffle!,7.0,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",['asread.'],24,Visual novel,Summer,2005,TV,R+ - Mild Nudity
+80,Kidou Senshi Gundam,7.77,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],43,Original,Spring,1979,TV,PG-13 - Teens 13 or older
+81,Kidou Senshi Gundam: Dai 08 MS Shoutai,7.99,"['Action', 'Adventure', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],12,Original,,1996,OVA,PG-13 - Teens 13 or older
+82,Kidou Senshi Gundam 0080: Pocket no Naka no Sensou,8.0,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],6,Original,,1989,OVA,PG-13 - Teens 13 or older
+83,Kidou Senshi Gundam: Dai 08 MS Shoutai - Miller's Report,6.74,"['Action', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],1,Original,,1998,Movie,PG-13 - Teens 13 or older
+84,Kidou Senshi Gundam 0083: Stardust Memory,7.21,"['Action', 'Adventure', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],13,Original,,1991,OVA,PG-13 - Teens 13 or older
+85,Kidou Senshi Zeta Gundam,7.89,"['Action', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],50,Original,Spring,1985,TV,PG-13 - Teens 13 or older
+86,Kidou Senshi Gundam ZZ,6.67,"['Action', 'Comedy', 'Drama', 'Sci-Fi']",['Sunrise'],47,Original,Spring,1986,TV,PG-13 - Teens 13 or older
+87,Kidou Senshi Gundam: Gyakushuu no Char,7.68,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],1,Novel,,1988,Movie,PG-13 - Teens 13 or older
+88,Kidou Senshi Gundam F91,6.59,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],1,Original,,1991,Movie,PG-13 - Teens 13 or older
+89,Kidou Senshi Victory Gundam,6.71,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],51,Original,Spring,1993,TV,PG-13 - Teens 13 or older
+90,Shin Kidou Senki Gundam Wing,7.66,"['Action', 'Drama', 'Sci-Fi']",['Sunrise'],49,Original,Spring,1995,TV,PG-13 - Teens 13 or older
+91,Shin Kidou Senki Gundam Wing: Endless Waltz,7.73,"['Action', 'Award Winning', 'Drama', 'Sci-Fi']",['Sunrise'],3,Original,,1997,OVA,PG-13 - Teens 13 or older
+92,Kidou Shinseiki Gundam X,7.34,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",['Sunrise'],39,Original,Spring,1996,TV,PG-13 - Teens 13 or older
+93,Kidou Senshi Gundam SEED,7.74,"['Action', 'Award Winning', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],50,Original,Fall,2002,TV,R - 17+ (violence & profanity)
+94,Kidou Senshi Gundam SEED Destiny,7.17,"['Action', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],50,Original,Fall,2004,TV,R - 17+ (violence & profanity)
+95,Turn A Gundam,7.79,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],50,Original,Spring,1999,TV,PG-13 - Teens 13 or older
+96,Kidou Butouden G Gundam,7.58,"['Action', 'Drama', 'Romance', 'Sci-Fi']",['Sunrise'],49,Original,Spring,1994,TV,PG-13 - Teens 13 or older
+97,Last Exile,7.78,"['Action', 'Adventure', 'Sci-Fi']",['Gonzo'],26,Original,Spring,2003,TV,PG-13 - Teens 13 or older
+98,Mai-HiME,7.39,"['Action', 'Fantasy', 'Girls Love']",['Sunrise'],26,Original,Fall,2004,TV,PG-13 - Teens 13 or older
+99,Mai-Otome,7.27,"['Comedy', 'Drama', 'Fantasy']",['Sunrise'],26,Original,Fall,2005,TV,PG-13 - Teens 13 or older
+100,Shin Shirayuki-hime Densetsu Prétear,7.15,"['Drama', 'Romance']",['HAL Film Maker'],13,Manga,Spring,2001,TV,PG-13 - Teens 13 or older
+101,Air,7.27,"['Drama', 'Romance', 'Supernatural']",['Kyoto Animation'],12,Visual novel,Winter,2005,TV,PG-13 - Teens 13 or older
+102,Aishiteruze Baby★★,7.43,"['Comedy', 'Drama', 'Romance']",['TMS Entertainment'],26,Manga,Spring,2004,TV,PG-13 - Teens 13 or older
+103,Akazukin Chacha,7.41,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",['Gallop'],74,Manga,Winter,1994,TV,G - All Ages
+104,Ayashi no Ceres,7.17,"['Adventure', 'Drama', 'Horror', 'Romance', 'Supernatural']",['Studio Pierrot'],24,Manga,Spring,2000,TV,R - 17+ (violence & profanity)
+105,Boys Be...,6.38,"['Comedy', 'Romance']",['HAL Film Maker'],13,Manga,Spring,2000,TV,PG-13 - Teens 13 or older
+106,Hana yori Dango,7.57,"['Drama', 'Romance']",['Toei Animation'],51,Manga,Fall,1996,TV,PG-13 - Teens 13 or older
+107,Ou Dorobou Jing,7.17,"['Adventure', 'Comedy', 'Fantasy', 'Sci-Fi']",['Studio Deen'],13,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+108,Ou Dorobou Jing in Seventh Heaven,7.23,"['Adventure', 'Comedy', 'Fantasy']",['Studio Deen'],3,Manga,,2004,OVA,PG-13 - Teens 13 or older
+109,Bakuretsu Tenshi,6.77,"['Action', 'Adventure', 'Sci-Fi']",['Gonzo'],24,Original,Spring,2004,TV,PG-13 - Teens 13 or older
+110,Chuuka Ichiban!,7.59,"['Action', 'Comedy', 'Drama', 'Gourmet']",['Nippon Animation'],52,Manga,Spring,1997,TV,PG-13 - Teens 13 or older
+111,Corrector Yui,6.86,"['Adventure', 'Comedy', 'Sci-Fi']",['Nippon Animation'],52,Original,Spring,1999,TV,G - All Ages
+112,Chou Henshin Cosprayers,4.82,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Sci-Fi', 'Ecchi']","['Imagin', 'Studio Live']",8,Original,Winter,2004,TV,PG-13 - Teens 13 or older
+113,Uchuu no Stellvia,7.32,"['Action', 'Romance', 'Sci-Fi']",['Xebec'],26,Original,Spring,2003,TV,PG-13 - Teens 13 or older
+114,Sakigake!! Cromartie Koukou,7.88,['Comedy'],['Production I.G'],26,Manga,Fall,2003,TV,PG-13 - Teens 13 or older
+115,Ijigen no Sekai El-Hazard,6.77,"['Adventure', 'Comedy', 'Fantasy']",['AIC'],13,Original,Winter,1998,TV,PG-13 - Teens 13 or older
+116,Shinpi no Sekai El-Hazard (TV),6.93,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",['AIC'],26,Original,Fall,1995,TV,PG-13 - Teens 13 or older
+117,Shinpi no Sekai El-Hazard,7.24,"['Adventure', 'Comedy', 'Fantasy', 'Romance']",['AIC'],7,Original,,1995,OVA,PG-13 - Teens 13 or older
+118,Shinpi no Sekai El-Hazard Season 2,6.76,"['Adventure', 'Comedy', 'Fantasy']",['AIC'],4,Original,,1997,OVA,PG-13 - Teens 13 or older
+119,Final Approach,6.5,"['Comedy', 'Drama', 'Romance']","['Trinet Entertainment', 'Zexcs']",13,Visual novel,Fall,2004,TV,PG-13 - Teens 13 or older
+120,Fruits Basket,7.69,"['Drama', 'Romance', 'Supernatural']",['Studio Deen'],26,Manga,Summer,2001,TV,PG-13 - Teens 13 or older
+121,Fullmetal Alchemist,8.11,"['Action', 'Adventure', 'Award Winning', 'Drama', 'Fantasy']",['Bones'],51,Manga,Fall,2003,TV,R - 17+ (violence & profanity)
+122,Full Moon wo Sagashite,7.93,"['Comedy', 'Drama', 'Romance', 'Supernatural']",['Studio Deen'],52,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+123,Fushigi Yuugi,7.6,"['Action', 'Adventure', 'Fantasy', 'Romance']",['Studio Pierrot'],52,Manga,Spring,1995,TV,PG-13 - Teens 13 or older
+124,Fushigi Yuugi: Eikouden,6.79,"['Adventure', 'Drama', 'Fantasy', 'Romance']",['Studio Pierrot'],4,Manga,,2001,OVA,PG-13 - Teens 13 or older
+125,Futakoi,6.41,"['Comedy', 'Romance']",['Telecom Animation Film'],13,Original,Fall,2004,TV,PG-13 - Teens 13 or older
+126,Futakoi Alternative,6.83,"['Comedy', 'Drama', 'Romance']","['ufotable', 'feel.', 'Studio Flag']",13,Original,Spring,2005,TV,PG-13 - Teens 13 or older
+127,Gate Keepers,6.9,"['Action', 'Comedy', 'Fantasy', 'Sci-Fi']",['Gonzo'],24,Game,Spring,2000,TV,PG-13 - Teens 13 or older
+128,Gate Keepers 21,6.73,"['Action', 'Drama', 'Sci-Fi']",['Gonzo'],6,Game,,2002,OVA,PG-13 - Teens 13 or older
+129,Gensoumaden Saiyuuki,7.53,"['Action', 'Adventure', 'Drama', 'Fantasy']",['Studio Pierrot'],50,Manga,Spring,2000,TV,R - 17+ (violence & profanity)
+130,Saiyuuki Reload,7.36,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",['Studio Pierrot'],25,Manga,Fall,2003,TV,PG-13 - Teens 13 or older
+131,Saiyuuki Reload Gunlock,7.37,"['Action', 'Adventure', 'Comedy', 'Drama', 'Supernatural']",['Studio Pierrot'],26,Manga,Spring,2004,TV,PG-13 - Teens 13 or older
+132,GetBackers,7.57,"['Action', 'Mystery', 'Supernatural']",['Studio Deen'],49,Manga,Fall,2002,TV,PG-13 - Teens 13 or older
+133,Green Green,6.12,"['Comedy', 'Romance', 'Ecchi']",['Studio Matrix'],12,Visual novel,Summer,2003,TV,R+ - Mild Nudity
+134,Gunslinger Girl,7.38,"['Action', 'Drama', 'Sci-Fi', 'Suspense']",['Madhouse'],13,Manga,Fall,2003,TV,R - 17+ (violence & profanity)
+135,Hikaru no Go,8.07,"['Comedy', 'Drama', 'Supernatural']",['Studio Pierrot'],75,Manga,Fall,2001,TV,PG-13 - Teens 13 or older
+136,Hunter x Hunter,8.43,"['Action', 'Adventure', 'Fantasy']",['Nippon Animation'],62,Manga,Fall,1999,TV,PG-13 - Teens 13 or older
+137,Hunter x Hunter: Original Video Animation,8.31,"['Action', 'Adventure', 'Fantasy']",['Nippon Animation'],8,Manga,,2002,OVA,PG-13 - Teens 13 or older
+138,Hunter x Hunter: Greed Island,8.18,"['Action', 'Adventure', 'Fantasy']",['Nippon Animation'],8,Manga,,2003,OVA,PG-13 - Teens 13 or older
+139,Hunter x Hunter: Greed Island Final,8.25,"['Action', 'Adventure', 'Fantasy']",['Nippon Animation'],14,Manga,,2004,OVA,PG-13 - Teens 13 or older
+141,Jinki:Extend,6.04,['Sci-Fi'],['feel.'],12,Manga,Winter,2005,TV,R - 17+ (violence & profanity)
+142,Kamikaze Kaitou Jeanne,7.46,"['Action', 'Drama', 'Romance', 'Supernatural']",['Toei Animation'],44,Manga,Winter,1999,TV,PG-13 - Teens 13 or older
+143,Kannazuki no Miko,6.8,"['Action', 'Drama', 'Girls Love', 'Supernatural']",['TNK'],12,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+144,Kanon,7.06,"['Drama', 'Romance', 'Supernatural']",['Toei Animation'],13,Visual novel,Winter,2002,TV,G - All Ages
+145,Kareshi Kanojo no Jijou,7.6,"['Comedy', 'Drama', 'Romance']","['Gainax', 'J.C.Staff']",26,Manga,Fall,1998,TV,PG-13 - Teens 13 or older
+146,Kono Minikuku mo Utsukushii Sekai,6.69,"['Comedy', 'Drama', 'Romance', 'Sci-Fi', 'Ecchi']","['Gainax', 'Shaft']",12,Original,Spring,2004,TV,R+ - Mild Nudity
+147,Kimi ga Nozomu Eien,7.16,"['Drama', 'Romance']",['Studio Fantasia'],14,Visual novel,Fall,2003,TV,R+ - Mild Nudity
+148,Kita e.: Diamond Dust Drops,6.55,"['Drama', 'Romance']",['Studio Deen'],12,Visual novel,Winter,2004,TV,PG-13 - Teens 13 or older
+149,Loveless,6.71,"['Boys Love', 'Drama', 'Mystery', 'Supernatural']",['J.C.Staff'],12,Manga,Spring,2005,TV,PG-13 - Teens 13 or older
+150,Blood+,7.6,"['Action', 'Drama', 'Horror', 'Mystery', 'Supernatural']",['Production I.G'],50,Original,Fall,2005,TV,R - 17+ (violence & profanity)
+151,Re: Cutie Honey,7.14,"['Action', 'Comedy', 'Girls Love', 'Sci-Fi', 'Ecchi']","['Gainax', 'Toei Animation']",3,Manga,,2004,OVA,R+ - Mild Nudity
+152,Solty Rei,7.24,"['Action', 'Sci-Fi']","['Gonzo', 'AIC']",24,Original,Fall,2005,TV,R - 17+ (violence & profanity)
+153,Juuni Kokuki,8.01,"['Action', 'Adventure', 'Fantasy']",['Studio Pierrot'],45,Novel,Spring,2002,TV,PG-13 - Teens 13 or older
+154,Shaman King,7.73,"['Action', 'Adventure', 'Supernatural']",['Xebec'],64,Manga,Summer,2001,TV,PG-13 - Teens 13 or older
+155,X/1999,6.56,"['Action', 'Drama', 'Fantasy', 'Mystery']",['Madhouse'],1,Manga,,1996,Movie,R+ - Mild Nudity
+156,X,7.38,"['Action', 'Drama', 'Fantasy', 'Mystery']",['Madhouse'],24,Manga,Fall,2001,TV,R+ - Mild Nudity
+157,Mahou Sensei Negima!,6.92,"['Action', 'Comedy', 'Fantasy', 'Romance', 'Ecchi']",['Xebec'],26,Manga,Winter,2005,TV,PG-13 - Teens 13 or older
+158,Maria-sama ga Miteru,7.27,"['Drama', 'Girls Love']",['Studio Deen'],13,Light novel,Winter,2004,TV,PG-13 - Teens 13 or older
+159,Boukyaku no Senritsu,6.25,"['Action', 'Adventure', 'Fantasy', 'Horror', 'Sci-Fi']",['J.C.Staff'],24,Manga,Spring,2004,TV,PG-13 - Teens 13 or older
+160,"Ima, Soko ni Iru Boku",7.57,"['Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",['AIC'],13,Original,Fall,1999,TV,R - 17+ (violence & profanity)
+161,Peace Maker Kurogane,7.29,"['Action', 'Comedy']",['Gonzo'],24,Manga,Fall,2003,TV,R - 17+ (violence & profanity)
+162,Pita Ten,6.92,"['Comedy', 'Fantasy', 'Romance']",['Madhouse'],26,Manga,Spring,2002,TV,G - All Ages
+163,Power Stone,6.46,"['Adventure', 'Comedy', 'Fantasy']",['Studio Pierrot'],26,Game,Spring,1999,TV,PG - Children
+164,Mononoke Hime,8.67,"['Action', 'Adventure', 'Award Winning', 'Fantasy']",['Studio Ghibli'],1,Original,,1997,Movie,PG-13 - Teens 13 or older
+165,RahXephon,7.37,"['Action', 'Award Winning', 'Drama', 'Mystery', 'Romance', 'Sci-Fi', 'Suspense']",['Bones'],26,Original,Winter,2002,TV,PG-13 - Teens 13 or older
+166,Samurai 7,7.43,"['Action', 'Sci-Fi']",['Gonzo'],26,Other,Summer,2004,TV,PG-13 - Teens 13 or older
+167,Scrapped Princess,7.36,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Sci-Fi']",['Bones'],24,Light novel,Spring,2003,TV,PG-13 - Teens 13 or older
+168,s.CRY.ed,7.35,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",['Sunrise'],26,Original,Summer,2001,TV,PG-13 - Teens 13 or older
+169,Shingetsutan Tsukihime,6.78,"['Action', 'Horror', 'Mystery', 'Romance', 'Supernatural']",['J.C.Staff'],12,Visual novel,Fall,2003,TV,R - 17+ (violence & profanity)
+170,Slam Dunk,8.55,['Sports'],['Toei Animation'],101,Manga,Fall,1993,TV,PG-13 - Teens 13 or older
+171,Strange Dawn,6.25,"['Adventure', 'Drama', 'Fantasy']",['HAL Film Maker'],13,Original,Summer,2000,TV,PG-13 - Teens 13 or older
+173,Tactics,7.18,"['Mystery', 'Supernatural']",['Studio Deen'],25,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+174,Tenjou Tenge,6.86,"['Action', 'Drama', 'Supernatural', 'Ecchi']",['Madhouse'],24,Manga,Spring,2004,TV,R - 17+ (violence & profanity)
+175,Tokyo Underground,6.58,"['Action', 'Adventure', 'Romance', 'Sci-Fi']",['Studio Pierrot'],26,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+176,Triangle Heart: Sweet Songs Forever,6.09,"['Adventure', 'Romance']",['Seven Arcs'],4,Visual novel,,2003,OVA,R - 17+ (violence & profanity)
+177,Tsubasa Chronicle,7.51,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",['Bee Train'],26,Manga,Spring,2005,TV,PG-13 - Teens 13 or older
+178,Ultra Maniac,7.15,"['Comedy', 'Fantasy', 'Romance']",['Ashi Productions'],26,Manga,Spring,2003,TV,G - All Ages
+179,Ultra Maniac OVA,6.62,"['Comedy', 'Fantasy', 'Romance']",['Ashi Productions'],1,Manga,,2002,OVA,G - All Ages
+180,Vandread,7.15,"['Action', 'Sci-Fi', 'Ecchi']",['Gonzo'],13,Original,Fall,2000,TV,PG-13 - Teens 13 or older
+181,Vandread: The Second Stage,7.37,"['Action', 'Sci-Fi', 'Ecchi']",['Gonzo'],13,Original,Fall,2001,TV,PG-13 - Teens 13 or older
+182,Tenkuu no Escaflowne,7.65,"['Action', 'Adventure', 'Fantasy', 'Romance']",['Sunrise'],26,Original,Spring,1996,TV,PG-13 - Teens 13 or older
+183,Whistle!,7.36,['Sports'],['Studio Comet'],39,Manga,Spring,2002,TV,G - All Ages
+184,Xenosaga The Animation,6.32,"['Action', 'Sci-Fi']",['Toei Animation'],12,Game,Winter,2005,TV,PG-13 - Teens 13 or older
+185,Initial D First Stage,8.36,"['Action', 'Drama']","['Gallop', 'Studio Comet']",26,Manga,Spring,1998,TV,PG-13 - Teens 13 or older
+186,Initial D Second Stage,8.19,"['Action', 'Drama']",['Pastel'],13,Manga,Fall,1999,TV,PG-13 - Teens 13 or older
+187,Initial D Third Stage,7.91,"['Action', 'Drama']",['Studio Deen'],1,Manga,,2001,Movie,PG-13 - Teens 13 or older
+188,Gosenzo Sane,6.13,"['Comedy', 'Mystery', 'Supernatural', 'Hentai']",['AIC'],4,Original,,1998,OVA,Rx - Hentai
+189,Love Hina,7.09,"['Comedy', 'Romance', 'Ecchi']",['Xebec'],24,Manga,Spring,2000,TV,PG-13 - Teens 13 or older
+190,Love Hina Again,7.2,"['Comedy', 'Romance', 'Ecchi']",['Xebec'],3,Manga,,2002,OVA,PG-13 - Teens 13 or older
+191,Love Hina Christmas Special: Silent Eve,7.3,"['Comedy', 'Romance']",['Xebec'],1,Manga,,2000,TV Special,PG-13 - Teens 13 or older
+192,Love Hina Haru Special: Kimi Sakura Chiru Nakare!!,7.17,"['Adventure', 'Comedy', 'Romance']",['Xebec'],1,Manga,,2001,TV Special,PG-13 - Teens 13 or older
+193,Maburaho,6.72,"['Comedy', 'Drama', 'Romance', 'Ecchi']",['J.C.Staff'],24,Light novel,Fall,2003,TV,R+ - Mild Nudity
+194,Macross Zero,7.48,"['Action', 'Adventure', 'Sci-Fi']",['Satelight'],5,Original,,2002,OVA,R+ - Mild Nudity
+195,Onegai☆Teacher,7.09,"['Drama', 'Romance', 'Sci-Fi']",['Daume'],12,Original,Winter,2002,TV,PG-13 - Teens 13 or older
+196,Onegai☆Twins,6.8,"['Comedy', 'Drama', 'Sci-Fi']",['Daume'],12,Original,Summer,2003,TV,PG-13 - Teens 13 or older
+197,Rizelmine,6.49,"['Comedy', 'Romance', 'Sci-Fi', 'Ecchi']","['Madhouse', 'Imagin']",24,Manga,Spring,2002,TV,R+ - Mild Nudity
+198,Speed Grapher,7.29,"['Action', 'Mystery', 'Suspense']",['Gonzo'],24,Original,Spring,2005,TV,R+ - Mild Nudity
+199,Sen to Chihiro no Kamikakushi,8.77,"['Adventure', 'Award Winning', 'Fantasy']",['Studio Ghibli'],1,Original,,2001,Movie,PG - Children
+200,Tenshi na Konamaiki,7.42,"['Comedy', 'Romance']",['TMS Entertainment'],50,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+201,Video Girl Ai,7.18,"['Comedy', 'Drama', 'Romance', 'Ecchi']",['Production I.G'],6,Manga,,1992,OVA,R+ - Mild Nudity
+202,Wolf's Rain,7.79,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Mystery']",['Bones'],26,Original,Winter,2003,TV,PG-13 - Teens 13 or older
+203,Words Worth,6.72,"['Adventure', 'Fantasy', 'Hentai']",['Arms'],5,Visual novel,,1999,OVA,Rx - Hentai
+204,Yumeria,6.05,"['Action', 'Comedy', 'Ecchi']",['Studio Deen'],12,Visual novel,Winter,2004,TV,PG-13 - Teens 13 or older
+205,Samurai Champloo,8.52,"['Action', 'Adventure', 'Comedy']",['Manglobe'],26,Original,Spring,2004,TV,R - 17+ (violence & profanity)
+206,Lodoss-tou Senki: Eiyuu Kishi Den,7.11,"['Action', 'Adventure', 'Drama', 'Fantasy', 'Romance']",['AIC'],27,Novel,Spring,1998,TV,PG-13 - Teens 13 or older
+207,Lodoss-tou Senki,7.32,"['Action', 'Adventure', 'Fantasy']",['Madhouse'],13,Light novel,,1990,OVA,R - 17+ (violence & profanity)
+208,R.O.D: Read or Die,7.61,"['Action', 'Adventure', 'Mystery', 'Sci-Fi']",['Studio Deen'],3,Light novel,,2001,OVA,PG-13 - Teens 13 or older
+209,R.O.D: The TV,7.52,"['Action', 'Adventure', 'Comedy', 'Drama', 'Sci-Fi']",['J.C.Staff'],26,Manga,Fall,2003,TV,R+ - Mild Nudity
+210,Ranma ½,7.77,"['Action', 'Comedy', 'Romance', 'Ecchi']",['Studio Deen'],161,Manga,Spring,1989,TV,R+ - Mild Nudity
+211,Pure Mail,6.18,['Hentai'],['Datama Film'],2,Visual novel,,2001,OVA,Rx - Hentai
+212,Project A-Ko,6.85,"['Action', 'Adventure', 'Comedy', 'Sci-Fi']",['APPP'],1,Original,,1986,Movie,PG-13 - Teens 13 or older
+213,Pia Carrot e Youkoso!!,5.95,"['Comedy', 'Hentai']",['Triple X'],3,Visual novel,,1997,OVA,Rx - Hentai
+214,Pia Carrot e Youkoso!! 2,6.1,"['Comedy', 'Hentai']",['Triple X'],3,Visual novel,,1998,OVA,Rx - Hentai
+215,Pia Carrot e Youkoso!! 2 DX,6.2,"['Comedy', 'Romance']",['Garyuu Studio'],6,Visual novel,,1999,OVA,PG-13 - Teens 13 or older
+216,Pia Carrot e Youkoso!!: Sayaka no Koi Monogatari,5.83,"['Comedy', 'Romance']",['I-move'],1,Visual novel,,2002,Movie,PG-13 - Teens 13 or older
+217,Shin Angel,6.27,"['Comedy', 'Drama', 'Hentai']",['Arms'],5,Manga,,1994,OVA,Rx - Hentai
+218,Kidou Senkan Nadesico,7.49,"['Action', 'Comedy', 'Romance', 'Sci-Fi']",['Xebec'],26,Original,Fall,1996,TV,PG-13 - Teens 13 or older
+219,Kidou Senkan Nadesico: The Prince of Darkness,6.72,"['Action', 'Award Winning', 'Drama', 'Sci-Fi']",['Xebec'],1,Original,,1998,Movie,R - 17+ (violence & profanity)
+220,Kuro no Danshou,5.66,"['Horror', 'Hentai']",['JOF'],4,Visual novel,,1999,OVA,Rx - Hentai
+221,Mezzo Forte,6.62,"['Action', 'Comedy', 'Sci-Fi', 'Hentai']",['Arms'],2,Original,,2000,OVA,Rx - Hentai
+222,Mezzo DSA,6.62,"['Action', 'Adventure', 'Comedy', 'Mystery', 'Sci-Fi']",['Arms'],13,Original,Winter,2004,TV,R+ - Mild Nudity
+223,Dragon Ball,7.98,"['Action', 'Adventure', 'Comedy', 'Fantasy']",['Toei Animation'],153,Manga,Winter,1986,TV,PG-13 - Teens 13 or older
+225,Dragon Ball GT,6.51,"['Action', 'Adventure', 'Comedy', 'Fantasy']",['Toei Animation'],64,Manga,Winter,1996,TV,PG-13 - Teens 13 or older
+226,Elfen Lied,7.46,"['Action', 'Drama', 'Horror', 'Romance', 'Suspense']",['Arms'],13,Manga,Summer,2004,TV,R+ - Mild Nudity
+227,FLCL,8.04,"['Action', 'Avant Garde', 'Comedy', 'Sci-Fi', 'Suspense']","['Gainax', 'Production I.G']",6,Original,,2000,OVA,PG-13 - Teens 13 or older
+228,Jigoku Shoujo,7.6,"['Horror', 'Mystery', 'Supernatural', 'Suspense']",['Studio Deen'],26,Original,Fall,2005,TV,R - 17+ (violence & profanity)
+229,Ninin ga Shinobuden,6.87,['Comedy'],['ufotable'],12,Manga,Summer,2004,TV,R - 17+ (violence & profanity)
+230,Air Master,6.94,"['Action', 'Comedy']",['Toei Animation'],27,Manga,Spring,2003,TV,R - 17+ (violence & profanity)
+231,Asagiri no Miko,6.1,"['Action', 'Comedy', 'Supernatural']","['Chaos Project', 'GANSIS']",26,Manga,Summer,2002,TV,PG - Children
+232,Cardcaptor Sakura,8.18,"['Adventure', 'Comedy', 'Drama', 'Romance']",['Madhouse'],70,Manga,Spring,1998,TV,PG - Children
+233,Daa! Daa! Daa!,7.63,"['Comedy', 'Sci-Fi']",['J.C.Staff'],78,Manga,Spring,2000,TV,G - All Ages
+234,Dan Doh!!,6.63,"['Adventure', 'Sports']",['Tokyo Kids'],26,Manga,Spring,2004,TV,G - All Ages
+235,Meitantei Conan,8.18,"['Adventure', 'Comedy', 'Mystery']",['TMS Entertainment'],0,Manga,Winter,1996,TV,PG-13 - Teens 13 or older
+236,E's Otherwise,6.58,"['Action', 'Adventure', 'Drama', 'Sci-Fi']",['Studio Pierrot'],26,Manga,Spring,2003,TV,PG-13 - Teens 13 or older
+237,Koukyoushihen Eureka Seven,8.05,"['Action', 'Adventure', 'Drama', 'Romance', 'Sci-Fi']",['Bones'],50,Original,Spring,2005,TV,PG-13 - Teens 13 or older
+238,Rekka no Honoo,7.34,"['Action', 'Adventure']",['Studio Pierrot'],42,Manga,Summer,1997,TV,PG-13 - Teens 13 or older
+239,Gankutsuou,8.11,"['Award Winning', 'Drama', 'Mystery', 'Sci-Fi', 'Supernatural', 'Suspense']",['Gonzo'],24,Novel,Fall,2004,TV,R - 17+ (violence & profanity)
+240,Genshiken,7.63,['Slice of Life'],['Palm Studio'],12,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+241,Girls Bravo: First Season,6.35,"['Comedy', 'Fantasy', 'Romance', 'Ecchi']",['AIC Spirits'],11,Manga,Summer,2004,TV,R+ - Mild Nudity
+242,Gokusen,7.42,"['Action', 'Comedy']",['Madhouse'],13,Manga,Winter,2004,TV,R - 17+ (violence & profanity)
+243,Gravitation,6.9,"['Boys Love', 'Comedy']",['Studio Deen'],13,Manga,Fall,2000,TV,PG-13 - Teens 13 or older
+244,Agatha Christie no Meitantei Poirot to Marple,6.88,['Mystery'],['OLM'],39,Novel,Summer,2004,TV,G - All Ages
+245,Great Teacher Onizuka,8.68,['Comedy'],['Studio Pierrot'],43,Manga,Summer,1999,TV,R - 17+ (violence & profanity)
+246,Groove Adventure Rave,7.2,"['Action', 'Adventure', 'Comedy', 'Fantasy', 'Romance']",['Studio Deen'],51,Manga,Fall,2001,TV,PG-13 - Teens 13 or older
+247,Harukanaru Toki no Naka de: Hachiyou Shou,6.99,"['Fantasy', 'Romance']",['Yumeta Company'],26,Visual novel,Fall,2004,TV,PG-13 - Teens 13 or older
+248,Ichigo 100%,6.61,"['Comedy', 'Romance', 'Ecchi']",['Madhouse'],12,Manga,Spring,2005,TV,PG-13 - Teens 13 or older
+249,InuYasha,7.87,"['Action', 'Adventure', 'Fantasy', 'Romance']",['Sunrise'],167,Manga,Fall,2000,TV,PG-13 - Teens 13 or older
+250,Konjiki no Gash Bell!!,7.55,"['Action', 'Adventure', 'Comedy', 'Supernatural']",['Toei Animation'],150,Manga,Spring,2003,TV,PG-13 - Teens 13 or older
+251,Kyou kara Maou!,7.61,"['Adventure', 'Comedy', 'Fantasy']",['Studio Deen'],78,Light novel,Spring,2004,TV,PG-13 - Teens 13 or older
+252,Madlax,7.01,"['Drama', 'Mystery', 'Supernatural']",['Bee Train'],26,Original,Spring,2004,TV,PG-13 - Teens 13 or older
+253,Jungle wa Itsumo Hare nochi Guu,7.8,['Comedy'],['Shin-Ei Animation'],26,Manga,Spring,2001,TV,PG-13 - Teens 13 or older
+254,Jungle wa Itsumo Hare nochi Guu Deluxe,7.78,['Comedy'],['Shin-Ei Animation'],6,Manga,,2002,OVA,PG-13 - Teens 13 or older
+255,Jungle wa Itsumo Hare nochi Guu Final,7.6,"['Award Winning', 'Comedy', 'Slice of Life']",['Shin-Ei Animation'],7,Manga,,2003,OVA,PG-13 - Teens 13 or older
+256,Hoshi no Koe,7.09,"['Action', 'Award Winning', 'Drama', 'Romance', 'Sci-Fi']",['CoMix Wave Films'],1,Original,,2002,OVA,PG-13 - Teens 13 or older
+257,Ikkitousen,6.37,"['Action', 'Ecchi']",['J.C.Staff'],13,Manga,Summer,2003,TV,R+ - Mild Nudity
+258,Hitsuji no Uta,6.12,"['Drama', 'Horror']",['Madhouse'],4,Manga,,2003,OVA,R - 17+ (violence & profanity)
+259,Happy☆Lesson,6.58,"['Comedy', 'Romance']","['Studio Kyuuma', 'Venet', 'Chaos Project']",5,Unknown,,2001,OVA,PG-13 - Teens 13 or older
+260,Happy☆Lesson (TV),6.6,"['Comedy', 'Drama', 'Romance']",['Studio Hibari'],13,Manga,Spring,2002,TV,PG-13 - Teens 13 or older
+261,Happy☆Lesson Advance,6.76,"['Comedy', 'Romance']",['Studio Hibari'],13,Manga,Summer,2003,TV,PG-13 - Teens 13 or older
+262,Happy☆Lesson The Final,6.76,"['Comedy', 'Romance']",['Studio Ranmaru'],3,Manga,,2004,OVA,PG-13 - Teens 13 or older
+263,Hajime no Ippo,8.78,['Sports'],['Madhouse'],75,Manga,Fall,2000,TV,PG-13 - Teens 13 or older
+264,Hajime no Ippo: Champion Road,8.25,['Sports'],['Madhouse'],1,Manga,,2003,TV Special,PG-13 - Teens 13 or older
+265,Hajime no Ippo: Mashiba vs. Kimura,8.25,['Sports'],['Madhouse'],1,Manga,,2003,OVA,PG-13 - Teens 13 or older
+266,Gunparade March: Arata Naru Kougunka,6.69,"['Action', 'Drama', 'Romance', 'Sci-Fi']",['J.C.Staff'],12,Game,Winter,2003,TV,PG-13 - Teens 13 or older
+267,Gungrave,7.81,"['Action', 'Drama', 'Sci-Fi']",['Madhouse'],26,Game,Fall,2003,TV,R - 17+ (violence & profanity)
+268,Golden Boy,8.04,"['Adventure', 'Comedy', 'Ecchi']",['APPP'],6,Manga,,1995,OVA,R+ - Mild Nudity
+269,Bleach,7.98,"['Action', 'Adventure', 'Supernatural']",['Studio Pierrot'],366,Manga,Fall,2004,TV,PG-13 - Teens 13 or older
+270,Hellsing,7.5,"['Action', 'Horror', 'Supernatural']",['Gonzo'],13,Manga,Fall,2001,TV,R - 17+ (violence & profanity)
+271,Gad Guard,6.63,"['Action', 'Adventure', 'Sci-Fi']",['Gonzo'],26,Original,Spring,2003,TV,PG-13 - Teens 13 or older
+272,Noir,7.27,"['Action', 'Drama', 'Mystery']",['Bee Train'],26,Original,Spring,2001,TV,PG-13 - Teens 13 or older
+273,Mahoutsukai ni Taisetsu na Koto,6.68,"['Fantasy', 'Slice of Life']","['J.C.Staff', 'Viewworks']",12,Manga,Winter,2003,TV,PG-13 - Teens 13 or older
