@@ -2,7 +2,7 @@ import pandas as pd
 import ast
 import os
 
-# Ensure data folder exists
+
 os.makedirs("data", exist_ok=True)
 
 # Load raw data
@@ -16,7 +16,7 @@ df = df.dropna(subset=["title", "score", "genres", "studios"])
 df["year"] = pd.to_datetime(df["aired.from"], errors="coerce").dt.year
 df["season"] = df["season"].str.title()
 
-# Clean genre_list properly
+# Clean genre_list 
 def clean_genres(x):
     try:
         lst = ast.literal_eval(x)  # string to list of dicts
@@ -26,7 +26,7 @@ def clean_genres(x):
 
 df["genre_list"] = df["genres"].apply(clean_genres)
 
-# Optional: Clean studios similarly
+# Clean studios
 def clean_studios(x):
     try:
         lst = ast.literal_eval(x)
@@ -36,10 +36,9 @@ def clean_studios(x):
 
 df["studios"] = df["studios"].apply(clean_studios)
 
-# Episodes: fill NaN with 0 and convert to int
+# Episodes
 df["episodes"] = df["episodes"].fillna(0).astype(int)
 
-# Keep only useful columns
 df_clean = df[["mal_id", "title", "score", "genre_list", "studios",
                "episodes", "source", "season", "year", "type", "rating"]]
 
