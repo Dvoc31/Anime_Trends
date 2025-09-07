@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load raw data
-df = pd.read_csv(r"D:\practice\raw_anime_data.csv")
+df = pd.read_csv("data/raw_anime_data.csv")
 
 # Remove duplicates + rows without important info
 df.drop_duplicates(subset="mal_id", inplace=True)
@@ -17,5 +17,5 @@ df["episodes"] = df["episodes"].fillna(0).astype(int)
 df_clean = df[["mal_id", "title", "score", "episodes", "year", "season", "type", "rating","source"]]
 
 # Save cleaned data
-df_clean.to_csv(r"D:\practice\cleaned_anime_data.csv", index=False)
-
+df_clean.to_csv("data/cleaned_anime_data.csv", index=False)
+df_clean.to_json("data/cleaned_anime_data.json", orient="records", force_ascii=False)
