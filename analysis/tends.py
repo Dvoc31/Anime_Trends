@@ -4,7 +4,7 @@ import seaborn as sns
 
 
 # Load cleaned data
-df = pd.read_csv("clean_anime_data.csv")
+df = pd.read_csv("cleaned_anime_data.csv")
 
 plt.style.use("seaborn-v0_8")
 sns.set_palette("viridis")
