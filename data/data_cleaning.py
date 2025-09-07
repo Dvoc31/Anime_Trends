@@ -17,5 +17,5 @@ df["episodes"] = df["episodes"].fillna(0).astype(int)
 df_clean = df[["mal_id", "title", "score", "episodes", "year", "season", "type", "rating","source"]]
 
 # Save cleaned data
-df_clean.to_csv(r"D:\practice\clean_anime_data.csv", index=False)
+df_clean.to_csv(r"D:\practice\cleaned_anime_data.csv", index=False)
 
