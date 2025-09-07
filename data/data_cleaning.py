@@ -1,49 +1,20 @@
 import pandas as pd
-import ast
-import os
-
-
-os.makedirs("data", exist_ok=True)
 
 # Load raw data
 df = pd.read_csv("data/raw_anime_data.csv")
 
-# Remove duplicates + rows without critical info
+# Remove duplicates + rows without important info
 df.drop_duplicates(subset="mal_id", inplace=True)
-df = df.dropna(subset=["title", "score", "genres", "studios"])
+df = df.dropna(subset=["title", "score", "episodes"])
 
-# Extract year and season
+# Extract year
 df["year"] = pd.to_datetime(df["aired.from"], errors="coerce").dt.year
-df["season"] = df["season"].str.title()
 
-# Clean genre_list 
-def clean_genres(x):
-    try:
-        lst = ast.literal_eval(x)  # string to list of dicts
-        return [g['name'] for g in lst]  # extract only names
-    except:
-        return []
-
-df["genre_list"] = df["genres"].apply(clean_genres)
-
-# Clean studios
-def clean_studios(x):
-    try:
-        lst = ast.literal_eval(x)
-        return [s['name'] for s in lst]
-    except:
-        return []
-
-df["studios"] = df["studios"].apply(clean_studios)
-
-# Episodes
+# Fill episodes (missing → 0)
 df["episodes"] = df["episodes"].fillna(0).astype(int)
 
-df_clean = df[["mal_id", "title", "score", "genre_list", "studios",
-               "episodes", "source", "season", "year", "type", "rating"]]
+# Keep only simple useful columns
+df_clean = df[["mal_id", "title", "score", "episodes", "year", "type", "rating"]]
 
-# Save cleaned data as JSON + CSV
+# Save cleaned data
 df_clean.to_csv("data/cleaned_anime_data.csv", index=False)
-df_clean.to_json("data/cleaned_anime_data.json", orient="records", force_ascii=False)
-
-print("✅ Data cleaned and saved as cleaned_anime_data.csv & .json")
